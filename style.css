@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #161b22;
+}
+
+#sketchpad {
+    display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+    background-color: white;
+}
